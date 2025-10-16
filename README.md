@@ -1,5 +1,5 @@
 # Django
-Simple FeedBack Form Project Using Django
+Installation and Running the Server of Django
 
 1.To make a folder in the file explorer we need to passthe command
 ---->Go to search/type cmd
